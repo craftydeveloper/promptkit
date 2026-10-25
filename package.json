@@ -1,0 +1,11 @@
+{
+  "name": "promptkit",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A local library for reusable prompt templates and task briefs.",
+  "scripts": {
+    "test": "node --test",
+    "validate": "node scripts/validate-static-app.mjs"
+  }
+}
