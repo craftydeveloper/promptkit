@@ -1,0 +1,18 @@
+{
+  "schemaVersion": 1,
+  "note": "Synthetic documentation examples; not loaded by the app.",
+  "records": [
+    {
+      "id": "prompt-1",
+      "title": "Explain a concept",
+      "category": "writing",
+      "prompt": "Explain {{topic}} for {{audience}}."
+    },
+    {
+      "id": "prompt-2",
+      "title": "Review a change",
+      "category": "engineering",
+      "prompt": "Review this change: {{diff}}"
+    }
+  ]
+}
